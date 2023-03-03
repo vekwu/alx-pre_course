@@ -1,2 +1,3 @@
 the git command line  used to get all the changes done on the branch locall is
--  git FETCH --all -
+-  first use gif PULL command
+-  second use git FETCH --all command
